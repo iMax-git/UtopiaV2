@@ -76,8 +76,7 @@ header titre img {
 }
 header .titre{
 	width: 30%;
-  float: left;
-  cursor: pointer;
+	float: left;
 }
 
 header title button{
@@ -181,11 +180,80 @@ header title button{
   }
 }
 
-
-/* Widget Discord*/
-
-.wdiscord{
+.q1{
+  color: white;
+  background-color: #333;
+  background-size: 25%;
   position: absolute;
-  top: 30%;
-  left: 35%;
+  top: 18%;
+  left: 37%;
+  text-align: center;
+  align-self: auto;
+  font-family: cursive;
+  font-size: 25px;
+  border-radius: 1.5rem;
+  border: 8px solid red;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.p1{
+  color: white;
+  background-color: #333;
+  background-size: 25%;
+  position: absolute;
+  top: 33%;
+  left: 5%;
+  text-align: center;
+  align-self: auto;
+  font-family: cursive;
+  font-size: 25px;
+  border-radius: 1.5rem;
+  border: 8px solid red;
+  margin-top: 5px;
+  
+}
+
+.p1 img{
+	border-radius: 1.5rem;
+}
+
+.p2{
+  color: white;
+  background-color: #333;
+  background-size: 25%;
+  position: absolute;
+  top: 33%;
+  left: 37%;
+  text-align: center;
+  align-self: auto;
+  font-family: cursive;
+  font-size: 25px;
+  border-radius: 1.5rem;
+  border: 8px solid red;
+  margin-top: 5px;
+}
+
+.p2 img{
+	border-radius: 1.5rem;
+}
+
+.p3{
+  color: white;
+  background-color: #333;
+  background-size: 25%;
+  position: absolute;
+  top: 33%;
+  right: 4%;
+  text-align: center;
+  align-self: auto;
+  font-family: cursive;
+  font-size: 25px;
+  border-radius: 1.5rem;
+  border: 8px solid red;
+  margin-top: 5px;
+}
+
+.p3 img{
+	border-radius: 1.5rem;
 }

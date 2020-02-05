@@ -179,12 +179,73 @@ header title button{
     line-height: 1.8;
   }
 }
-
+.q1 h1 {
+	display:inline;
+}	
 .q1{
-  position: absolute;
-  top: 25%;
-  left: 10%;
+  color: white;
   background-color: #333;
-  border-radius: 5rem;
-  border-color: red;
+  background-size: 25%;
+  position: absolute;
+  top: 29%;
+  left: 37%;
+  text-align: center;
+  align-self: auto;
+  font-family: cursive;
+  font-size: 25px;
+  border-radius: 1.5rem;
+  border: 8px solid red;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.q2{
+  color: white;
+  background-color: #333;
+  background-size: 25%;
+  position: absolute;
+  top: 44%;
+  left: 37%;
+  text-align: center;
+  align-self: auto;
+  font-family: cursive;
+  font-size: 25px;
+  border-radius: 1.5rem;
+  border: 8px solid red;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.q3{
+  color: white;
+  background-color: #333;
+  background-size: 25%;
+  position: absolute;
+  top: 59%;
+  left: 37%;
+  text-align: center;
+  align-self: auto;
+  font-family: cursive;
+  font-size: 25px;
+  border-radius: 1.5rem;
+  border: 8px solid red;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.q4{
+  color: white;
+  background-color: #333;
+  background-size: 25%;
+  position: absolute;
+  top: 74%;
+  left: 37%;
+  text-align: center;
+  align-self: auto;
+  font-family: cursive;
+  font-size: 25px;
+  border-radius: 1.5rem;
+  border: 8px solid red;
+  margin-top: 5px;
+  padding: 10px;
 }

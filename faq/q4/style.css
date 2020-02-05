@@ -76,8 +76,7 @@ header titre img {
 }
 header .titre{
 	width: 30%;
-  float: left;
-  cursor: pointer;
+	float: left;
 }
 
 header title button{
@@ -181,11 +180,66 @@ header title button{
   }
 }
 
-
-/* Widget Discord*/
-
-.wdiscord{
+.q1{
+  color: white;
+  background-color: #333;
+  background-size: 25%;
   position: absolute;
-  top: 30%;
-  left: 35%;
+  top: 50%;
+  left: 20%;
+  text-align: center;
+  align-self: auto;
+  font-family: cursive;
+  font-size: 25px;
+  border-radius: 1.5rem;
+  border: 8px solid red;
+  margin-top: 5px;
+}
+
+.q2{
+  color: white;
+  background-color: #333;
+  background-size: 25%;
+  position: absolute;
+  top: 75%;
+  left: 20%;
+  text-align: center;
+  align-self: auto;
+  font-family: cursive;
+  font-size: 25px;
+  border-radius: 1.5rem;
+  border: 8px solid red;
+  margin-top: 5px;
+}
+
+.q3{
+  color: white;
+  background-color: #333;
+  background-size: 25%;
+  position: absolute;
+  top: 50%;
+  right: 20%;
+  text-align: center;
+  align-self: auto;
+  font-family: cursive;
+  font-size: 25px;
+  border-radius: 1.5rem;
+  border: 8px solid red;
+  margin-top: 5px;
+}
+
+.q4{
+  color: white;
+  background-color: #333;
+  background-size: 25%;
+  position: absolute;
+  top: 75%;
+  right: 16.75%;
+  text-align: center;
+  align-self: auto;
+  font-family: cursive;
+  font-size: 25px;
+  border-radius: 1.5rem;
+  border: 8px solid red;
+  margin-top: 5px;
 }

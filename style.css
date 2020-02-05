@@ -197,6 +197,7 @@ header title button{
   font-size: 20px;
   border-radius: 1.5rem;
   border: 8px solid red;
+  padding: 10px;
 }
 
 .welc p{
