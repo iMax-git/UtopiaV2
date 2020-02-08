@@ -235,3 +235,9 @@ header title button{
 	top: 40%;
 	left: 3%;
 }
+
+.container a{
+	position: absolute;
+	top: 73%;
+	left: 30%;
+}
