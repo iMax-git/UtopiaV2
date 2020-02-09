@@ -75,11 +75,10 @@ header titre img {
     margin-right: auto;
 }
 header .titre{
-	width: 30%;
 	float: left;
 }
 
-header title button{
+header .title .button{
 	float: right;
 } 
 
@@ -100,12 +99,12 @@ header title button{
   cursor: pointer;
   float: left;
   justify-content: center;
-  margin-top: 5%;
 }
 
 .btn-group {
 	width: 50%;
-	float: right;
+  float: right;
+  margin-top: 2%;
 }
 
 .btn-group .button:not(:last-child) {
@@ -189,17 +188,26 @@ header title button{
   background-color: #333;
   background-size: 25%;
   position: absolute;
-  top: 50%;
-  left: 20%;
+  top: 27%;
+  left: 21%;
   text-align: center;
-  align-self: auto;
   font-family: cursive;
   font-size: 20px;
   border-radius: 1.5rem;
   border: 8px solid red;
   padding: 10px;
+
 }
 
 .welc p{
   margin-top: 5px;
 }
+
+.twitter {
+  position: absolute;
+  top: 51%;
+  left: 2%;
+  width: 20%;
+  height: 60%;
+}
+
